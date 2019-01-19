@@ -1982,3 +1982,7 @@ a {
     width: 150px;
     margin-top: 40px;        
 }
+
+.text-white{
+    font: white;
+}
