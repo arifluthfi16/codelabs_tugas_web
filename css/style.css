@@ -1966,3 +1966,7 @@ a {
 .hover-border-pale-blue:hover {
     border-color: #e7ffff !important
 }
+
+.text-white{
+    font: white;
+}
